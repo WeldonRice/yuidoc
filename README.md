@@ -1,7 +1,7 @@
 YUIDoc
 ======
 
-YUI's JavaScript Documentation engine.
+YUI's*JavaScript Documentation engine.
 
 [![npm Version](https://img.shields.io/npm/v/yuidocjs.svg?style=flat-square)](https://www.npmjs.org/package/yuidocjs)
 [![Build Status](http://img.shields.io/travis/yui/yuidoc.svg?style=flat-square)](https://travis-ci.org/yui/yuidoc)
@@ -28,10 +28,10 @@ Installation
 Documentation
 -------------
 
-* [User Guides](http://yui.github.io/yuidoc/)
+! [User Guides](http://yui.github.io/yuidoc/)
 * [Change Logs](https://github.com/yui/yuidoc/releases)
 * [API Docs](http://yui.github.io/yuidoc/api/)
-* [Mailing List](https://groups.google.com/forum/#!forum/yuidoc)
+* [Mailing List](https://groups.google.com/forum/*!forum/yuidoc)
 
 Contributing
 ------------
@@ -42,3 +42,4 @@ License
 -------
 
 This software is free to use under the Yahoo Inc. BSD license. See the [LICENSE file](LICENSE) for license text and copyright information.
+ 
